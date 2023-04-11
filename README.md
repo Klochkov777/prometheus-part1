@@ -27,17 +27,17 @@
 
 ### Задание 1
 
-[prometheus.service — Prometheus Service Netology Lesson 9.4 — Klochkov Vladimir]()
+[prometheus.service — Prometheus Service Netology Lesson 9.4 — Klochkov Vladimir](https://github.com/Klochkov777/prometheus-part1/blob/master/screen/prometheus%20running.png)
 
 
 ### Задание 2
 
-[node-exporter.service — Node Exporter Netology Lesson 9.4 — Klochkov Vladimir]()
+[node-exporter.service — Node Exporter Netology Lesson 9.4 — Klochkov Vladimir](https://github.com/Klochkov777/prometheus-part1/blob/master/screen/exporter%20running.png)
 
 ### Задание 3
 
-* [Prometheus вкладки Status > Configuration]()
-* [ Prometheus вкладки Status > Targets]()
+* [Prometheus вкладки Status > Configuration](https://github.com/Klochkov777/prometheus-part1/blob/master/screen/prometheus%20config.png)
+* [ Prometheus вкладки Status > Targets](https://github.com/Klochkov777/prometheus-part1/blob/master/screen/prometheus%20targets.png)
 
 
 
